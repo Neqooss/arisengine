@@ -1,3 +1,2 @@
 # Aris engine
-
-Version: (2022.0)
+[!] IN BETA!
